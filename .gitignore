@@ -1,0 +1,11 @@
+src/config.h
+build
+include
+lib
+pebble_app.ld
+resources/wscript
+tools
+waf
+wscript
+.waf*
+.lock*
