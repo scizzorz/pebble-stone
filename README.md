@@ -2,7 +2,7 @@
 
 A simple Pebble watchface that displays the time, date, day of the week, and weather.
 
-![screenshot](http://soofw.com/up/pebble/stone/screenshot.png)
+![screenshot](https://github.com/scizzorz/pebble-stone/blob/master/screenshot.png)
 
 ## Usage
 
